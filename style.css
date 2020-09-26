@@ -286,6 +286,7 @@ nav a:hover::before {
     margin-bottom: 4em;
     text-align: center;
 }
+
 .instagram-photos {
     list-style: none;
     padding: 0;
@@ -293,6 +294,7 @@ nav a:hover::before {
     display: flex;
     align-items: center;
     justify-content: center;
+    overflow-x: scroll;
 }
 
 .instagram-photos img {
